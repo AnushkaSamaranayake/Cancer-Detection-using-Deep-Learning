@@ -18,6 +18,7 @@ Brain tumors can be life-threatening if not diagnosed early. This project utiliz
 ## Dataset
 
 The model is trained using a dataset of brain MRI images. Each image is labeled as having a tumor or not. The dataset should be organized in the following structure:
+https://github.com/AnushkaSamaranayake/Cancer-Detection-using-Deep-Learning/tree/main/Brain%20Tumor%20Data%20Set/Brain%20Tumor%20Data%20Set
 
 
 Ensure that your dataset is preprocessed appropriately (resized, normalized) before feeding it into the model.
