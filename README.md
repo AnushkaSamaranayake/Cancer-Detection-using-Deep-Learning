@@ -10,8 +10,6 @@ A simple Convolutional Neural Network (CNN) model to detect brain tumors from MR
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -21,3 +19,15 @@ Brain tumors can be life-threatening if not diagnosed early. This project utiliz
 
 The model is trained using a dataset of brain MRI images. Each image is labeled as having a tumor or not. The dataset should be organized in the following structure:
 
+
+Ensure that your dataset is preprocessed appropriately (resized, normalized) before feeding it into the model.
+
+## Model Architecture
+
+The model is a simple CNN consisting of the following layers:
+
+- Convolutional layers with ReLU activation
+- MaxPooling layers
+- Fully connected dense layers
+- Dropout for regularization
+- Output layer with softmax activation for classification
