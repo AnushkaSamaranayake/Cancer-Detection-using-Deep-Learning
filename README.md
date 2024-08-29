@@ -7,9 +7,6 @@ A simple Convolutional Neural Network (CNN) model to detect brain tumors from MR
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Model Architecture](#model-architecture)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
 
 ## Introduction
 
