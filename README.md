@@ -29,3 +29,8 @@ The model is a simple CNN consisting of the following layers:
 - Fully connected dense layers
 - Dropout for regularization
 - Output layer with softmax activation for classification
+
+## Transfer Learning
+
+This model is trained using a pre-trained model to enhance the accuracy of the predictions. MobilNet pre-trained model is used here in order to enhance the performance and, this will increase the accuracy of the model more than 90%
+ 
